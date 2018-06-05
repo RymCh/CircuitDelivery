@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryCircuitE.Entities", "DeliveryCircuitE.Entities\DeliveryCircuitE.Entities.csproj", "{49FF6311-18A1-450D-9634-1754DEF7CA90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryCircuit.DAL", "DeliveryCircuit.dal\DeliveryCircuit.DAL.csproj", "{9AFAE022-8B29-444A-A882-54BC96321541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelivryCircuit.BL", "DelivryCircuit.BL\DelivryCircuit.BL.csproj", "{7CF6FEE9-FF98-41B3-9748-44F4711FB84C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryCircuitPL.PL", "DeliveryCircuitPL.PL\DeliveryCircuitPL.PL.csproj", "{1A1B0D14-A5AF-42CD-91A9-1403D9AA216A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49FF6311-18A1-450D-9634-1754DEF7CA90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FF6311-18A1-450D-9634-1754DEF7CA90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FF6311-18A1-450D-9634-1754DEF7CA90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FF6311-18A1-450D-9634-1754DEF7CA90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AFAE022-8B29-444A-A882-54BC96321541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AFAE022-8B29-444A-A882-54BC96321541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AFAE022-8B29-444A-A882-54BC96321541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AFAE022-8B29-444A-A882-54BC96321541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CF6FEE9-FF98-41B3-9748-44F4711FB84C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF6FEE9-FF98-41B3-9748-44F4711FB84C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF6FEE9-FF98-41B3-9748-44F4711FB84C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF6FEE9-FF98-41B3-9748-44F4711FB84C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A1B0D14-A5AF-42CD-91A9-1403D9AA216A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1B0D14-A5AF-42CD-91A9-1403D9AA216A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1B0D14-A5AF-42CD-91A9-1403D9AA216A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1B0D14-A5AF-42CD-91A9-1403D9AA216A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50B22D00-4F22-4375-82A1-8E04AEB7BD50}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://rimchatti.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DeliveryCircuitE.Entities\\DeliveryCircuitE.Entities.csproj
+		SccProjectName1 = DeliveryCircuitE.Entities
+		SccLocalPath1 = DeliveryCircuitE.Entities
+		SccProjectUniqueName2 = DeliveryCircuit.dal\\DeliveryCircuit.DAL.csproj
+		SccProjectName2 = DeliveryCircuit.dal
+		SccLocalPath2 = DeliveryCircuit.dal
+		SccProjectUniqueName3 = DelivryCircuit.BL\\DelivryCircuit.BL.csproj
+		SccProjectName3 = DelivryCircuit.BL
+		SccLocalPath3 = DelivryCircuit.BL
+		SccProjectUniqueName4 = DeliveryCircuitPL.PL\\DeliveryCircuitPL.PL.csproj
+		SccProjectName4 = DeliveryCircuitPL.PL
+		SccLocalPath4 = DeliveryCircuitPL.PL
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuit.dal\bin\Debug\DeliveryCircuit.dal.dll.config
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuit.dal\bin\Debug\DeliveryCircuit.dal.dll
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuit.dal\bin\Debug\DeliveryCircuit.dal.pdb
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuit.dal\bin\Debug\DeliveryCircuitE.Entities.dll
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuit.dal\bin\Debug\EntityFramework.dll
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuit.dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuit.dal\bin\Debug\DeliveryCircuitE.Entities.pdb
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuit.dal\bin\Debug\DeliveryCircuitE.Entities.dll.config
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuit.dal\bin\Debug\EntityFramework.xml
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuit.dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuit.dal\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuit.dal\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuit.dal\obj\Debug\DeliveryCircuit.DAL.csprojResolveAssemblyReference.cache
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuit.dal\obj\Debug\DeliveryCircuit.DAL.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuit.dal\obj\Debug\DeliveryCircuit.dal.dll
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuit.dal\obj\Debug\DeliveryCircuit.dal.pdb

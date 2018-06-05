@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuitE.Entities\bin\Debug\DeliveryCircuitE.Entities.dll.config
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuitE.Entities\bin\Debug\DeliveryCircuitE.Entities.dll
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuitE.Entities\bin\Debug\DeliveryCircuitE.Entities.pdb
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuitE.Entities\bin\Debug\EntityFramework.dll
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuitE.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuitE.Entities\bin\Debug\EntityFramework.xml
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuitE.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuitE.Entities\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuitE.Entities\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuitE.Entities\obj\Debug\DeliveryCircuitE.Entities.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuitE.Entities\obj\Debug\DeliveryCircuitE.Entities.dll
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuitE.Entities\obj\Debug\DeliveryCircuitE.Entities.pdb
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuitE.Entities\obj\Debug\DeliveryCircuitE.Entities.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuit.Entities\bin\Debug\netcoreapp2.0\DeliveryCircuit.Entities.deps.json
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuit.Entities\bin\Debug\netcoreapp2.0\DeliveryCircuit.Entities.dll
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuit.Entities\bin\Debug\netcoreapp2.0\DeliveryCircuit.Entities.pdb
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuit.Entities\obj\Debug\netcoreapp2.0\DeliveryCircuit.Entities.csprojResolveAssemblyReference.cache
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuit.Entities\obj\Debug\netcoreapp2.0\DeliveryCircuit.Entities.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuit.Entities\obj\Debug\netcoreapp2.0\DeliveryCircuit.Entities.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuit.Entities\obj\Debug\netcoreapp2.0\DeliveryCircuit.Entities.AssemblyInfo.cs
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuit.Entities\obj\Debug\netcoreapp2.0\DeliveryCircuit.Entities.dll
+C:\Users\asus\source\repos\DeliveryCircuitProject\DeliveryCircuit\DeliveryCircuit.Entities\obj\Debug\netcoreapp2.0\DeliveryCircuit.Entities.pdb
